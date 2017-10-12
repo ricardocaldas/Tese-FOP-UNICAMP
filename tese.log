@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.7.25)  12 OCT 2017 04:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.7.25)  12 OCT 2017 04:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -290,7 +290,41 @@ ns/logo-unicamp-eps-converted-to.pdf> <./imagens/logo-fop.jpg>]
 \openout2 = `pagina_rosto.aux'.
 
 
-(./pagina_rosto.tex)
+(./pagina_rosto.tex
+Missing character: There is no Ã in font cmbx12!
+Missing character: There is no ­ in font cmbx12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¡ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ­ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no § in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no £ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ­ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no § in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no £ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ­ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¡ in font cmr12!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 55.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 55.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 55.
+Missing character: There is no Ã in font cmcsc10!
+Missing character: There is no   in font cmcsc10!
+Missing character: There is no Ã in font cmcsc10!
+Missing character: There is no £ in font cmcsc10!
+) [2
+
+
+]
 \openout2 = `ficha_catalografica.aux'.
 
  (./ficha_catalografica.tex)
@@ -300,9 +334,7 @@ ns/logo-unicamp-eps-converted-to.pdf> <./imagens/logo-fop.jpg>]
 \openout2 = `dedicatoria.aux'.
 
 
-(./dedicatoria.tex) [2
-
-
+(./dedicatoria.tex) [3
 
 
 
@@ -312,7 +344,7 @@ ns/logo-unicamp-eps-converted-to.pdf> <./imagens/logo-fop.jpg>]
 ]
 \openout2 = `agradecimentos.aux'.
 
- (./agradecimentos.tex) [3
+ (./agradecimentos.tex) [4
 
 
 ]
@@ -321,7 +353,7 @@ ns/logo-unicamp-eps-converted-to.pdf> <./imagens/logo-fop.jpg>]
  (./listas.tex)
 \openout2 = `resumo.aux'.
 
- (./resumo.tex) [4
+ (./resumo.tex) [5
 
 
 
@@ -329,37 +361,30 @@ ns/logo-unicamp-eps-converted-to.pdf> <./imagens/logo-fop.jpg>]
 ]
 \openout2 = `abstract.aux'.
 
- (./abstract.tex) [5
+ (./abstract.tex) [6
 
 
 ]
 \openout2 = `abstract_extra.aux'.
 
- (./abstract_extra.tex) [6
+ (./abstract_extra.tex) [7
 
 
 ]
 \openout2 = `sumario.aux'.
 
- (./sumario.tex) [7
+ (./sumario.tex) [8
 
 
 ]
-[8
-
-
-] (./tese.toc
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 2.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 2.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 2.
-)
+(./tese.toc)
 \tf@toc=\write3
 \openout3 = `tese.toc'.
 
- [9]
+ [9
+
+
+]
 \openout2 = `capitulo1/capitulo1.aux'.
 
  (./capitulo1/capitulo1.tex)
@@ -383,21 +408,22 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 3025 strings out of 493013
- 43298 string characters out of 6133343
- 115421 words of memory out of 5000000
- 6413 multiletter control sequences out of 15000+600000
- 8548 words of font info for 30 fonts, out of 8000000 for 9000
+ 3037 strings out of 493013
+ 43478 string characters out of 6133343
+ 116421 words of memory out of 5000000
+ 6424 multiletter control sequences out of 15000+600000
+ 10062 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,4n,33p,332b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
-></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
-/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
-Output written on tese.pdf (9 pages, 293678 bytes).
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
+Output written on tese.pdf (9 pages, 310880 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
+ 59 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

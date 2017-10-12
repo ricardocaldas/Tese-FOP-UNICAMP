@@ -1,7 +1,7 @@
 \select@language {portuguese}
-\contentsline {section}{\numberline {0.1}Dedicatoria}{2}
-\contentsline {section}{\numberline {0.2}Agradecimentos}{3}
-\contentsline {section}{\numberline {0.3}Resumo}{4}
-\contentsline {section}{\numberline {0.4}Abstract}{5}
-\contentsline {section}{\numberline {0.5}Outro abstract}{6}
-\contentsline {section}{\numberline {0.6}Sumario}{7}
+\contentsline {section}{\numberline {0.1}Dedicatoria}{3}
+\contentsline {section}{\numberline {0.2}Agradecimentos}{4}
+\contentsline {section}{\numberline {0.3}Resumo}{5}
+\contentsline {section}{\numberline {0.4}Abstract}{6}
+\contentsline {section}{\numberline {0.5}Outro abstract}{7}
+\contentsline {section}{\numberline {0.6}Sumario}{8}
