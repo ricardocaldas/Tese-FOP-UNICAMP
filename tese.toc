@@ -1,24 +1,7 @@
-\gdef \the@ipfilectr {@-1}
-\gdef \the@ipfilectr {}
-\gdef \the@ipfilectr {@-2}
-\gdef \the@ipfilectr {}
-\gdef \the@ipfilectr {@-3}
-\gdef \the@ipfilectr {}
-\gdef \the@ipfilectr {@-4}
-\gdef \the@ipfilectr {}
-\gdef \the@ipfilectr {@-5}
-\gdef \the@ipfilectr {}
-\gdef \the@ipfilectr {@-6}
-\gdef \the@ipfilectr {}
-\gdef \the@ipfilectr {@-7}
-\gdef \the@ipfilectr {}
-\gdef \the@ipfilectr {@-8}
-\gdef \the@ipfilectr {}
-\gdef \the@ipfilectr {@-9}
-\gdef \the@ipfilectr {}
-\gdef \the@ipfilectr {@-10}
-\gdef \the@ipfilectr {}
-\gdef \the@ipfilectr {@-11}
-\gdef \the@ipfilectr {}
-\select@language {english}
-\contentsfinish 
+\select@language {portuguese}
+\contentsline {section}{\numberline {0.1}Dedicatoria}{i}
+\contentsline {section}{\numberline {0.2}Agradecimentos}{ii}
+\contentsline {section}{\numberline {0.3}Resumo}{iii}
+\contentsline {section}{\numberline {0.4}Abstract}{iv}
+\contentsline {section}{\numberline {0.5}Outro abstract}{v}
+\contentsline {section}{\numberline {0.6}Sumario}{vi}
