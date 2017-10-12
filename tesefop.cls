@@ -21,3 +21,6 @@
 	right=20mm,
 	bottom=20mm
 }
+
+% Pacote para add figuras
+\RequirePackage{graphicx}
