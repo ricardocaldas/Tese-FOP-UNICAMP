@@ -32,3 +32,5 @@
 
 
 \RequirePackage{pdfpages} % add pdfs ao texto. Figuras ou páginas cheias
+
+\RequirePackage{blindtext} % Add texto para verificar formataçao

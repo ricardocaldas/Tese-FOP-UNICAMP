@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.7.25)  13 OCT 2017 16:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.7.25)  13 OCT 2017 16:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -455,7 +455,7 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 ))
 \Gin@req@height=\dimen114
 \Gin@req@width=\dimen115
-))
+)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2016/04/19 v0.5f Insert pages of external PDF documents (AM)
 
@@ -496,6 +496,31 @@ File: pppdftex.def 2016/04/19 v0.5f Pdfpages driver for pdfTeX (AM)
 \AM@toc@title=\toks20
 \c@AM@survey=\count97
 \AM@templatesizebox=\box27
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count98
+\c@Blindtext=\count99
+\c@blind@countparstart=\count100
+\blind@countxx=\count101
+\blindtext@numBlindtext=\count102
+\blind@countyy=\count103
+\c@blindlist=\count104
+\c@blindlistlevel=\count105
+\c@blindlist@level=\count106
+\blind@listitem=\count107
+\c@blind@listcount=\count108
+\c@blind@levelcount=\count109
+\blind@mathformula=\count110
+\blind@Mathformula=\count111
+\c@blind@randomcount=\count112
+\c@blind@randommax=\count113
+\c@blind@pangramcount=\count114
+\c@blind@pangrammax=\count115
 )
 (./dados_pessoais.tex) (./tese.aux (./pre-text-elements.aux) (./dedicatoria.aux
 ) (./agradecimentos.aux) (./listas.aux) (./resumo.aux) (./abstract.aux)
@@ -553,16 +578,16 @@ LaTeX Font Info:    ... okay on input line 11.
 
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count98
+\scratchcounter=\count116
 \scratchdimen=\dimen118
 \scratchbox=\box28
-\nofMPsegments=\count99
-\nofMParguments=\count100
+\nofMPsegments=\count117
+\nofMParguments=\count118
 \everyMPshowfont=\toks21
-\MPscratchCnt=\count101
+\MPscratchCnt=\count119
 \MPscratchDim=\dimen119
-\MPnumerator=\count102
-\makeMPintoPDFobject=\count103
+\MPnumerator=\count120
+\makeMPintoPDFobject=\count121
 \everyMPtoPDFconversion=\toks22
 ) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
@@ -747,7 +772,12 @@ Package pdftex.def Info: folha-de-aprovacao.pdf, page1 used on input line 131.
 \openout2 = `dedicatoria.aux'.
 
 
-(./dedicatoria.tex) [6
+(./dedicatoria.tex)
+
+Package blindtext Warning: portuguese not defined, using English instead.
+(blindtext)                 on input line 17.
+
+[6
 
 
 ]
@@ -770,7 +800,8 @@ Package pdftex.def Info: folha-de-aprovacao.pdf, page1 used on input line 131.
 ]
 \openout2 = `abstract.aux'.
 
- (./abstract.tex) [9
+
+(./abstract.tex) [9
 
 
 ]
@@ -785,11 +816,11 @@ Package pdftex.def Info: folha-de-aprovacao.pdf, page1 used on input line 131.
  (./sumario.tex) [11
 
 
+] [12
+
+
 ]
-[12
-
-
-] (./tese.toc)
+(./tese.toc)
 \tf@toc=\write3
 \openout3 = `tese.toc'.
 
@@ -812,13 +843,13 @@ Package pdftex.def Info: folha-de-aprovacao.pdf, page1 used on input line 131.
 (./sumario.aux) (./capitulo1/capitulo1.aux) (./capitulo2/capitulo2.aux)
 (./capitulo3/capitulo3.aux) (./capitulo4/capitulo4.aux)) ) 
 Here is how much of TeX's memory you used:
- 4812 strings out of 493013
- 65947 string characters out of 6133343
- 145774 words of memory out of 5000000
- 8113 multiletter control sequences out of 15000+600000
+ 4991 strings out of 493013
+ 68903 string characters out of 6133343
+ 160540 words of memory out of 5000000
+ 8285 multiletter control sequences out of 15000+600000
  19103 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,18n,45p,332b,432s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,18n,45p,332b,432s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2
 016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/201
 6/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2016/
@@ -831,7 +862,7 @@ st/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2016/texmf-dist
 onts/type1/public/cm-super/sfxc1095.pfb></usr/local/texlive/2016/texmf-dist/fon
 ts/type1/public/cm-super/sfxc1440.pfb></usr/local/texlive/2016/texmf-dist/fonts
 /type1/public/cm-super/sfxc1728.pfb>
-Output written on tese.pdf (13 pages, 464762 bytes).
+Output written on tese.pdf (13 pages, 466507 bytes).
 PDF statistics:
  155 PDF objects out of 1000 (max. 8388607)
  102 compressed objects within 2 object streams
