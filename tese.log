@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.7.25)  13 OCT 2017 17:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.7.25)  13 OCT 2017 17:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -888,33 +888,59 @@ Package blindtext Warning: portuguese not defined, using English instead.
 ]
 \openout2 = `lista-ilustracoes.aux'.
 
- (./lista-ilustracoes.tex) [11
+ (./lista-ilustracoes.tex
+
+Package blindtext Warning: portuguese not defined, using English instead.
+(blindtext)                 on input line 3.
+
+)
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 25.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 25.
+ [11
 
 
 ]
 \openout2 = `lista-tabelas.aux'.
 
- (./lista-tabelas.tex) [12
+
+(./lista-tabelas.tex
+
+Package blindtext Warning: portuguese not defined, using English instead.
+(blindtext)                 on input line 3.
+
+) [12
 
 
 ]
 \openout2 = `lista-abrv-siglas.aux'.
 
+ (./lista-abrv-siglas.tex
 
-(./lista-abrv-siglas.tex) [13
+Package blindtext Warning: portuguese not defined, using English instead.
+(blindtext)                 on input line 3.
+
+) [13
 
 
 ]
 \openout2 = `lista-simbolos.aux'.
 
- (./lista-simbolos.tex) [14
+ (./lista-simbolos.tex
+
+Package blindtext Warning: portuguese not defined, using English instead.
+(blindtext)                 on input line 3.
+
+) [14
 
 
 ]
 \openout2 = `sumario.aux'.
 
- (./sumario.tex)
-[15
+ (./sumario.tex) [15
 
 
 ]
@@ -932,47 +958,49 @@ Package blindtext Warning: portuguese not defined, using English instead.
  [17]
 \openout2 = `capitulo1/capitulo1.aux'.
 
- (./capitulo1/capitulo1.tex)
+
+(./capitulo1/capitulo1.tex)
 \openout2 = `capitulo2/capitulo2.aux'.
 
-
-(./capitulo2/capitulo2.tex)
+ (./capitulo2/capitulo2.tex)
 \openout2 = `capitulo3/capitulo3.aux'.
 
- (./capitulo3/capitulo3.tex)
+
+(./capitulo3/capitulo3.tex)
 \openout2 = `capitulo4/capitulo4.aux'.
 
-
-(./capitulo4/capitulo4.tex) (./tese.aux (./pre-text-elements.aux)
-(./dedicatoria.aux) (./agradecimentos.aux) (./resumo.aux) (./abstract.aux)
-(./abstract_extra.aux) (./lista-ilustracoes.aux) (./lista-tabelas.aux)
-(./lista-abrv-siglas.aux) (./lista-simbolos.aux) (./sumario.aux) (./listas.aux)
-(./capitulo1/capitulo1.aux) (./capitulo2/capitulo2.aux)
-(./capitulo3/capitulo3.aux) (./capitulo4/capitulo4.aux)) ) 
+ (./capitulo4/capitulo4.tex) (./tese.aux
+(./pre-text-elements.aux) (./dedicatoria.aux) (./agradecimentos.aux)
+(./resumo.aux) (./abstract.aux) (./abstract_extra.aux) (./lista-ilustracoes.aux
+) (./lista-tabelas.aux) (./lista-abrv-siglas.aux) (./lista-simbolos.aux)
+(./sumario.aux) (./listas.aux) (./capitulo1/capitulo1.aux)
+(./capitulo2/capitulo2.aux) (./capitulo3/capitulo3.aux)
+(./capitulo4/capitulo4.aux)) ) 
 Here is how much of TeX's memory you used:
- 5023 strings out of 493013
- 69523 string characters out of 6133343
- 165628 words of memory out of 5000000
- 8289 multiletter control sequences out of 15000+600000
+ 5041 strings out of 493013
+ 69841 string characters out of 6133343
+ 165634 words of memory out of 5000000
+ 8303 multiletter control sequences out of 15000+600000
  19103 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,18n,45p,332b,432s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2
-016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/201
-6/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2016/
-texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2016/te
-xmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2016/texm
-f-dist/fonts/type1/public/cm-super/sfcc1000.pfb></usr/local/texlive/2016/texmf-
-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texlive/2016/texmf-di
-st/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2016/texmf-dist
-/fonts/type1/public/cm-super/sfsl1200.pfb></usr/local/texlive/2016/texmf-dist/f
-onts/type1/public/cm-super/sfxc1095.pfb></usr/local/texlive/2016/texmf-dist/fon
-ts/type1/public/cm-super/sfxc1440.pfb></usr/local/texlive/2016/texmf-dist/fonts
-/type1/public/cm-super/sfxc1728.pfb>
-Output written on tese.pdf (17 pages, 474552 bytes).
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvi
+ps/cm-super/cm-super-t1.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publ
+ic/cm-super/sfbx1200.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public
+/cm-super/sfbx1728.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/c
+m-super/sfbx2488.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-
+super/sfcc1000.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-su
+per/sfcc1728.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-supe
+r/sfrm1200.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/
+sfsl1200.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sf
+xc1095.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfxc
+1440.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfxc17
+28.pfb>
+Output written on tese.pdf (17 pages, 482778 bytes).
 PDF statistics:
- 167 PDF objects out of 1000 (max. 8388607)
- 110 compressed objects within 2 object streams
+ 171 PDF objects out of 1000 (max. 8388607)
+ 113 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
