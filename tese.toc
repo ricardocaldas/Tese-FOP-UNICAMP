@@ -4,4 +4,8 @@
 \contentsline {section}{\numberline {0.3}Resumo}{8}
 \contentsline {section}{\numberline {0.4}Abstract}{9}
 \contentsline {section}{\numberline {0.5}Outro abstract}{10}
-\contentsline {section}{\numberline {0.6}Sumario}{11}
+\contentsline {section}{\numberline {0.6}Lista de Ilustra\IeC {\c c}\IeC {\~o}es}{11}
+\contentsline {section}{\numberline {0.7}Lista de Tabelas}{12}
+\contentsline {section}{\numberline {0.8}Lista de Abreviaturas e Siglas}{13}
+\contentsline {section}{\numberline {0.9}Lista de S\IeC {\'\i }mbolos}{14}
+\contentsline {section}{\numberline {0.10}Sumario}{15}
