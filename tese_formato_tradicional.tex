@@ -1,0 +1,45 @@
+%% Use \documentclass[print]{dissertation} to export the document
+\documentclass[]{tesefop}
+
+
+
+\input{dados_pessoais}  % Arquivo com os pacotes.
+%%%%%%%%%%%%%%%%%%%%%%%%% Configuração: dados pessoais %%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+\begin{document}
+	
+	%elementos pré-textuais. Não há necessidade de modificar este arquivo.
+	\include{pre-text-elements}
+	
+	
+	\include{dedicatoria} % Opcional. Remova esta linha caso não queira incluir
+	\include{agradecimentos} % Opcional. Remova esta linha caso não queira incluir
+	
+	
+	\include{resumo}
+	\include{abstract}
+	\include{abstract_extra} % Remova esta linha caso não inclua o resumo extra 
+	
+	\include{lista-ilustracoes} % Opcional. Remova esta linha caso não queira incluir
+	\include{lista-tabelas} % Opcional. Remova esta linha caso não queira incluir
+	\include{lista-abrv-siglas} % Opcional. Remova esta linha caso não queira incluir
+	\include{lista-simbolos} % Opcional. Remova esta linha caso não queira incluir
+	
+	
+	
+	\include{sumario}
+
+	
+
+	
+	\include{capitulo1/capitulo1}
+    \include{capitulo2/capitulo2}
+	\include{capitulo3/capitulo3}
+	\include{capitulo4/capitulo4}
+				
+	
+	
+
+\end{document}
