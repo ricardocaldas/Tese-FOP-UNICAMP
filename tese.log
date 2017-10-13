@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.7.25)  13 OCT 2017 17:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.7.25)  13 OCT 2017 18:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -525,9 +525,8 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 (./dados_pessoais.tex) (./tese.aux (./pre-text-elements.aux) (./dedicatoria.aux
 ) (./agradecimentos.aux) (./resumo.aux) (./abstract.aux) (./abstract_extra.aux)
 (./lista-ilustracoes.aux) (./lista-tabelas.aux) (./lista-abrv-siglas.aux)
-(./lista-simbolos.aux) (./sumario.aux) (./capitulo1/capitulo1.aux)
-(./capitulo2/capitulo2.aux) (./capitulo3/capitulo3.aux)
-(./capitulo4/capitulo4.aux))
+(./lista-simbolos.aux) (./sumario.aux) (./introducao.aux) (./discussao.aux)
+(./conclusao.aux) (./referencias.aux) (./apendice1.aux) (./anexo1.aux))
 \openout1 = `tese.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
@@ -798,27 +797,27 @@ Package blindtext Warning: portuguese not defined, using English instead.
  (./resumo.tex)
 
 Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 21.
+(blindtext)                 on input line 20.
 
 
 Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 21.
+(blindtext)                 on input line 20.
 
 
 Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 21.
+(blindtext)                 on input line 20.
 
 
 Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 21.
+(blindtext)                 on input line 20.
 
 
 Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 21.
+(blindtext)                 on input line 20.
 
 
 Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 21.
+(blindtext)                 on input line 20.
 
 [8
 
@@ -829,27 +828,27 @@ Package blindtext Warning: portuguese not defined, using English instead.
  (./abstract.tex)
 
 Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 22.
+(blindtext)                 on input line 21.
 
 
 Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 22.
+(blindtext)                 on input line 21.
 
 
 Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 22.
+(blindtext)                 on input line 21.
 
 
 Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 22.
+(blindtext)                 on input line 21.
 
 
 Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 22.
+(blindtext)                 on input line 21.
 
 
 Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 22.
+(blindtext)                 on input line 21.
 
 [9
 
@@ -860,27 +859,27 @@ Package blindtext Warning: portuguese not defined, using English instead.
  (./abstract_extra.tex)
 
 Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 23.
+(blindtext)                 on input line 22.
 
 
 Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 23.
+(blindtext)                 on input line 22.
 
 
 Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 23.
+(blindtext)                 on input line 22.
 
 
 Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 23.
+(blindtext)                 on input line 22.
 
 
 Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 23.
+(blindtext)                 on input line 22.
 
 
 Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 23.
+(blindtext)                 on input line 22.
 
 [10
 
@@ -894,12 +893,12 @@ Package blindtext Warning: portuguese not defined, using English instead.
 (blindtext)                 on input line 3.
 
 )
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 25.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 24.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 25.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 24.
  [11
 
 
@@ -950,46 +949,51 @@ Package blindtext Warning: portuguese not defined, using English instead.
 \openout3 = `tese.toc'.
 
 ) [17]
-\openout2 = `capitulo1/capitulo1.aux'.
-
- (./capitulo1/capitulo1.tex)
-\openout2 = `capitulo2/capitulo2.aux'.
+\openout2 = `introducao.aux'.
 
 
-(./capitulo2/capitulo2.tex)
-\openout2 = `capitulo3/capitulo3.aux'.
+No file introducao.tex.
+\openout2 = `discussao.aux'.
 
- (./capitulo3/capitulo3.tex)
-\openout2 = `capitulo4/capitulo4.aux'.
+No file discussao.tex.
+\openout2 = `conclusao.aux'.
 
+No file conclusao.tex.
+\openout2 = `referencias.aux'.
 
-(./capitulo4/capitulo4.tex) (./tese.aux (./pre-text-elements.aux)
-(./dedicatoria.aux) (./agradecimentos.aux) (./resumo.aux) (./abstract.aux)
-(./abstract_extra.aux) (./lista-ilustracoes.aux) (./lista-tabelas.aux)
-(./lista-abrv-siglas.aux) (./lista-simbolos.aux) (./sumario.aux)
-(./capitulo1/capitulo1.aux) (./capitulo2/capitulo2.aux)
-(./capitulo3/capitulo3.aux) (./capitulo4/capitulo4.aux)) ) 
+No file referencias.tex.
+\openout2 = `apendice1.aux'.
+
+No file apendice1.tex.
+\openout2 = `anexo1.aux'.
+
+No file anexo1.tex.
+(./tese.aux (./pre-text-elements.aux) (./dedicatoria.aux) (./agradecimentos.aux
+) (./resumo.aux) (./abstract.aux) (./abstract_extra.aux)
+(./lista-ilustracoes.aux) (./lista-tabelas.aux) (./lista-abrv-siglas.aux)
+(./lista-simbolos.aux) (./sumario.aux) (./introducao.aux) (./discussao.aux)
+(./conclusao.aux) (./referencias.aux) (./apendice1.aux) (./anexo1.aux)) ) 
 Here is how much of TeX's memory you used:
  5033 strings out of 493013
- 69760 string characters out of 6133343
- 165111 words of memory out of 5000000
- 8302 multiletter control sequences out of 15000+600000
+ 69482 string characters out of 6133343
+ 166157 words of memory out of 5000000
+ 8304 multiletter control sequences out of 15000+600000
  19103 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,18n,45p,332b,432s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2
-016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/201
-6/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016
-/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2016/t
-exmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2016/tex
-mf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2016/texmf
--dist/fonts/type1/public/cm-super/sfcc1000.pfb></usr/local/texlive/2016/texmf-d
-ist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texlive/2016/texmf-dis
-t/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2016/texmf-dist/
-fonts/type1/public/cm-super/sfsl1200.pfb></usr/local/texlive/2016/texmf-dist/fo
-nts/type1/public/cm-super/sfxc1095.pfb></usr/local/texlive/2016/texmf-dist/font
-s/type1/public/cm-super/sfxc1440.pfb></usr/local/texlive/2016/texmf-dist/fonts/
-type1/public/cm-super/sfxc1728.pfb>
+{/usr/
+local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
+al/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local
+/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/t
+exlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/tex
+live/2016/texmf-dist/fonts/type1/public/cm-super/sfcc1000.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texlive
+/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2
+016/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb></usr/local/texlive/201
+6/texmf-dist/fonts/type1/public/cm-super/sfxc1095.pfb></usr/local/texlive/2016/
+texmf-dist/fonts/type1/public/cm-super/sfxc1440.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/public/cm-super/sfxc1728.pfb>
 Output written on tese.pdf (17 pages, 482778 bytes).
 PDF statistics:
  171 PDF objects out of 1000 (max. 8388607)
