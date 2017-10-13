@@ -4,7 +4,12 @@
 \LoadClass[12pt, twoside]{book}
 
 %% English is the default language, but Dutch is used for some sections.
+
+\RequirePackage[utf8]{inputenc}
+\RequirePackage{cmap}
+\RequirePackage[T1]{fontenc}
 \RequirePackage[english, spanish,portuguese]{babel}
+
 \RequirePackage{calc}
 
 %%%% Custom figure caption
@@ -24,3 +29,6 @@
 
 % Pacote para add figuras
 \RequirePackage{graphicx}
+
+
+\RequirePackage{pdfpages} % add pdfs ao texto. Figuras ou páginas cheias
