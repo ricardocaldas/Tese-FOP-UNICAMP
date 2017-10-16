@@ -1,16 +1,16 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.7.25)  13 OCT 2017 18:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.10.11)  14 OCT 2017 18:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**tese.tex
+**./tese.tex
 (./tese.tex
-LaTeX2e <2016/03/31> patch level 2
-Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+LaTeX2e <2017-04-15>
+Babel <3.14> and hyphenation patterns for 84 language(s) loaded.
 (./tesefop.cls
 Document Class: tesefop 2017/10/10 v1.0 FOP Unicamp class
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/book.cls
+(c:/texlive/2017/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/bk12.clo
+(c:/texlive/2017/texmf-dist/tex/latex/base/bk12.clo
 File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -26,20 +26,20 @@ File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/inputenc.sty
+(c:/texlive/2017/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/utf8.def
-File: utf8.def 2016/02/28 v1.1s UTF-8 support for inputenc
+(c:/texlive/2017/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1enc.dfu
-File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+(c:/texlive/2017/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -251,6 +251,8 @@ File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+0219 (decimal 537)
    defining Unicode char U+021A (decimal 538)
    defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0232 (decimal 562)
+   defining Unicode char U+0233 (decimal 563)
    defining Unicode char U+1E02 (decimal 7682)
    defining Unicode char U+1E03 (decimal 7683)
    defining Unicode char U+200C (decimal 8204)
@@ -271,12 +273,14 @@ File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+2039 (decimal 8249)
    defining Unicode char U+203A (decimal 8250)
    defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+1E20 (decimal 7712)
+   defining Unicode char U+1E21 (decimal 7713)
 )
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ot1enc.dfu
-File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+(c:/texlive/2017/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -316,8 +320,8 @@ File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omsenc.dfu
-File: omsenc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+(c:/texlive/2017/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
    defining Unicode char U+00B7 (decimal 183)
@@ -340,24 +344,31 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(/usr/local/texlive/2016/texmf-dist/tex/latex/cmap/cmap.sty
+(c:/texlive/2017/texmf-dist/tex/latex/cmap/cmap.sty
 Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2016/06/19 v1.99m Standard LaTeX package
+(c:/texlive/2017/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1enc.def
-File: t1enc.def 2016/06/19 v1.99m Standard LaTeX file
+(c:/texlive/2017/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 )<<t1.cmap>>)
-(/usr/local/texlive/2016/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2016/04/23 3.9r The Babel package
+(c:/texlive/2017/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2017/10/04 3.14 The Babel package
 
-(/usr/local/texlive/2016/texmf-dist/tex/generic/babel-english/english.ldf
-Language: english 2012/08/20 v3.3p English support from the babel system
+(c:/texlive/2017/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2017/10/04 3.14 Babel switching mechanism
+)
+(c:/texlive/2017/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
 
-(/usr/local/texlive/2016/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2016/04/23 3.9r Babel common definitions
+(c:/texlive/2017/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2017/10/04 3.14 Babel common definitions
+
+(c:/texlive/2017/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2017/10/04 3.14 Babel switching mechanism
+)
 \babel@savecnt=\count88
 \U@D=\dimen103
 )
@@ -365,7 +376,7 @@ File: babel.def 2016/04/23 3.9r Babel common definitions
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 )
-(/usr/local/texlive/2016/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+(c:/texlive/2017/texmf-dist/tex/generic/babel-spanish/spanish.ldf
 Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
 \es@quottoks=\toks16
 \es@quotdepth=\count89
@@ -374,10 +385,10 @@ Package babel Info: Making . an active character on input line 662.
 Package babel Info: Making < an active character on input line 707.
 Package babel Info: Making > an active character on input line 707.
 )
-(/usr/local/texlive/2016/texmf-dist/tex/generic/babel-portuges/portuges.ldf
+(c:/texlive/2017/texmf-dist/tex/generic/babel-portuges/portuges.ldf
 Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
 ))
-(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/calc.sty
+(c:/texlive/2017/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count90
 \calc@Bcount=\count91
@@ -390,21 +401,21 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count92
 \calc@Cskip=\skip45
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
+(c:/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(/usr/local/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(c:/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count93
@@ -428,50 +439,51 @@ Package geometry Warning: Over-specification in `h'-direction.
 Package geometry Warning: Over-specification in `v'-direction.
     `height' (731.23582pt) is ignored.
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+(c:/texlive/2017/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(c:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
-
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count96
+(c:/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen114
 \Gin@req@width=\dimen115
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/pdfpages/pdfpages.sty
-Package: pdfpages 2016/04/19 v0.5f Insert pages of external PDF documents (AM)
+(c:/texlive/2017/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2017/08/14 v0.5k Insert pages of external PDF documents (AM)
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
+(c:/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+(c:/texlive/2017/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
 
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/atbegshi.sty
 Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))
+(c:/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(c:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -488,40 +500,43 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 \AM@pagewidth=\dimen116
 \AM@pageheight=\dimen117
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/pdfpages/pppdftex.def
-File: pppdftex.def 2016/04/19 v0.5f Pdfpages driver for pdfTeX (AM)
+(c:/texlive/2017/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2017/08/14 v0.5k Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box26
 \AM@global@opts=\toks19
 \AM@toc@title=\toks20
-\c@AM@survey=\count97
+\c@AM@survey=\count96
 \AM@templatesizebox=\box27
-))
-(/usr/local/texlive/2016/texmf-dist/tex/latex/blindtext/blindtext.sty
+)
+(c:/texlive/2017/texmf-dist/tex/latex/blindtext/blindtext.sty
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/xspace.sty
+(c:/texlive/2017/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count98
-\c@Blindtext=\count99
-\c@blind@countparstart=\count100
-\blind@countxx=\count101
-\blindtext@numBlindtext=\count102
-\blind@countyy=\count103
-\c@blindlist=\count104
-\c@blindlistlevel=\count105
-\c@blindlist@level=\count106
-\blind@listitem=\count107
-\c@blind@listcount=\count108
-\c@blind@levelcount=\count109
-\blind@mathformula=\count110
-\blind@Mathformula=\count111
-\c@blind@randomcount=\count112
-\c@blind@randommax=\count113
-\c@blind@pangramcount=\count114
-\c@blind@pangrammax=\count115
+\c@blindtext=\count97
+\c@Blindtext=\count98
+\c@blind@countparstart=\count99
+\blind@countxx=\count100
+\blindtext@numBlindtext=\count101
+\blind@countyy=\count102
+\c@blindlist=\count103
+\c@blindlistlevel=\count104
+\c@blindlist@level=\count105
+\blind@listitem=\count106
+\c@blind@listcount=\count107
+\c@blind@levelcount=\count108
+\blind@mathformula=\count109
+\blind@Mathformula=\count110
+\c@blind@randomcount=\count111
+\c@blind@randommax=\count112
+\c@blind@pangramcount=\count113
+\c@blind@pangrammax=\count114
 )
+(c:/texlive/2017/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+))
 (./dados_pessoais.tex) (./tese.aux (./pre-text-elements.aux) (./dedicatoria.aux
 ) (./agradecimentos.aux) (./resumo.aux) (./abstract.aux) (./abstract_extra.aux)
 (./lista-ilustracoes.aux) (./lista-tabelas.aux) (./lista-abrv-siglas.aux)
@@ -529,18 +544,18 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 (./conclusao.aux) (./referencias.aux) (./apendice1.aux) (./anexo1.aux))
 \openout1 = `tese.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -576,71 +591,71 @@ LaTeX Font Info:    ... okay on input line 11.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(c:/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count116
+\scratchcounter=\count115
 \scratchdimen=\dimen118
 \scratchbox=\box28
-\nofMPsegments=\count117
-\nofMParguments=\count118
+\nofMPsegments=\count116
+\nofMParguments=\count117
 \everyMPshowfont=\toks21
-\MPscratchCnt=\count119
+\MPscratchCnt=\count118
 \MPscratchDim=\dimen119
-\MPnumerator=\count120
-\makeMPintoPDFobject=\count121
+\MPnumerator=\count119
+\makeMPintoPDFobject=\count120
 \everyMPtoPDFconversion=\toks22
-) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
-)
+) (c:/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(c:/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(c:/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-))
-(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 38.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(c:/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box29
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+(c:/texlive/2017/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/lscape.sty
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
@@ -650,132 +665,147 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 
 (./pre-text-elements.tex
 Package epstopdf Info: Source file: <imagens/logo-unicamp.eps>
-(epstopdf)                    date: 2017-10-12 04:15:44
-(epstopdf)                    size: 124700 bytes
+(epstopdf)                    date: 2017-10-14 16:06:36
+(epstopdf)                    size: 126785 bytes
 (epstopdf)             Output file: <imagens/logo-unicamp-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2017-10-12 04:22:30
+(epstopdf)                    date: 2017-10-14 16:06:36
 (epstopdf)                    size: 20567 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/logo-unicamp-eps-c
 onverted-to.pdf imagens/logo-unicamp.eps>
 (epstopdf)             \includegraphics on input line 3.
 Package epstopdf Info: Output file is already uptodate.
-
-<imagens/logo-unicamp-eps-converted-to.pdf, id=2, 481.8pt x 481.8pt>
+<imagens/logo-unicamp-eps-converted-to.pdf, id=2, pagebox=cropbox, 481.8pt x 48
+1.8pt>
 File: imagens/logo-unicamp-eps-converted-to.pdf Graphic file (type pdf)
-
 <use imagens/logo-unicamp-eps-converted-to.pdf>
-Package pdftex.def Info: imagens/logo-unicamp-eps-converted-to.pdf used on inpu
-t line 3.
-(pdftex.def)             Requested size: 45.52718pt x 45.52151pt.
-
+Package pdftex.def Info: imagens/logo-unicamp-eps-converted-to.pdf  used on inp
+ut line 3. on input line 3.
+Package pdftex.def Info: Requested size: 45.52718pt x 45.52151pt on input line 
+3.
 <imagens/logo-fop.jpg, id=3, 240.9pt x 242.8272pt>
 File: imagens/logo-fop.jpg Graphic file (type jpg)
- <use imagens/logo-fop.jpg>
-Package pdftex.def Info: imagens/logo-fop.jpg used on input line 11.
-(pdftex.def)             Requested size: 45.52718pt x 45.88939pt.
+<use imagens/logo-fop.jpg>
+Package pdftex.def Info: imagens/logo-fop.jpg  used on input line 11. on input 
+line 11.
+Package pdftex.def Info: Requested size: 45.52718pt x 45.88939pt on input line 
+11.
+ [1
 
-[1
 
-
-{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./image
-ns/logo-unicamp-eps-converted-to.pdf> <./imagens/logo-fop.jpg>] [2
+{c:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./imagens/logo-
+unicamp-eps-converted-to.pdf> <./imagens/logo-fop.jpg>] [2
 
 ]<<ot1.cmap>><<oml.cmap>><<oms.cmap>>
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 68.
+(Font)              <12> on input line 77.
 <<omx.cmap>>
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 68.
+(Font)              <8> on input line 77.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 68.
+(Font)              <6> on input line 77.
  [3]
-<ficha-catalografica.pdf, id=29, 597.23125pt x 845.1575pt>
+<ficha-catalografica.pdf, id=29, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: ficha-catalografica.pdf Graphic file (type pdf)
-
 <use ficha-catalografica.pdf>
-Package pdftex.def Info: ficha-catalografica.pdf used on input line 129.
-(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+Package pdftex.def Info: ficha-catalografica.pdf  used on input line 138. on in
+put line 138.
+Package pdftex.def Info: Requested size: 597.22978pt x 845.15544pt on input lin
+e 138.
 File: ficha-catalografica.pdf Graphic file (type pdf)
- <use ficha-catalografica.pdf>
-Package pdftex.def Info: ficha-catalografica.pdf used on input line 129.
-(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-
-<ficha-catalografica.pdf, id=32, page=1, 597.23125pt x 845.1575pt>
+<use ficha-catalografica.pdf>
+Package pdftex.def Info: ficha-catalografica.pdf  used on input line 138. on in
+put line 138.
+Package pdftex.def Info: Requested size: 597.22978pt x 845.15544pt on input lin
+e 138.
+<ficha-catalografica.pdf, id=32, page=1, pagebox=cropbox, 597.23125pt x 845.157
+5pt>
 File: ficha-catalografica.pdf Graphic file (type pdf)
-
 <use ficha-catalografica.pdf, page 1>
-Package pdftex.def Info: ficha-catalografica.pdf, page1 used on input line 129.
-
-(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+Package pdftex.def Info: ficha-catalografica.pdf , page1 used on input line 138
+. on input line 138.
+Package pdftex.def Info: Requested size: 597.22978pt x 845.15544pt on input lin
+e 138.
 File: ficha-catalografica.pdf Graphic file (type pdf)
- <use ficha-catalografica.pdf, page 1>
-Package pdftex.def Info: ficha-catalografica.pdf, page1 used on input line 129.
-
-(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
-File: ficha-catalografica.pdf Graphic file (type pdf)
-
 <use ficha-catalografica.pdf, page 1>
-Package pdftex.def Info: ficha-catalografica.pdf, page1 used on input line 129.
-
-(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+Package pdftex.def Info: ficha-catalografica.pdf , page1 used on input line 138
+. on input line 138.
+Package pdftex.def Info: Requested size: 597.25711pt x 845.19412pt on input lin
+e 138.
 File: ficha-catalografica.pdf Graphic file (type pdf)
- <use ficha-catalografica.pdf, page 1>
-Package pdftex.def Info: ficha-catalografica.pdf, page1 used on input line 129.
-
-(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
-File: ficha-catalografica.pdf Graphic file (type pdf)
-
 <use ficha-catalografica.pdf, page 1>
-Package pdftex.def Info: ficha-catalografica.pdf, page1 used on input line 129.
-
-(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+Package pdftex.def Info: ficha-catalografica.pdf , page1 used on input line 138
+. on input line 138.
+Package pdftex.def Info: Requested size: 597.25711pt x 845.19412pt on input lin
+e 138.
+File: ficha-catalografica.pdf Graphic file (type pdf)
+<use ficha-catalografica.pdf, page 1>
+Package pdftex.def Info: ficha-catalografica.pdf , page1 used on input line 138
+. on input line 138.
+Package pdftex.def Info: Requested size: 597.25711pt x 845.19412pt on input lin
+e 138.
+File: ficha-catalografica.pdf Graphic file (type pdf)
+<use ficha-catalografica.pdf, page 1>
+Package pdftex.def Info: ficha-catalografica.pdf , page1 used on input line 138
+. on input line 138.
+Package pdftex.def Info: Requested size: 597.25711pt x 845.19412pt on input lin
+e 138.
  [4
 
  <./ficha-catalografica.pdf>]
-<folha-de-aprovacao.pdf, id=60, 597.23125pt x 845.1575pt>
+<folha-de-aprovacao.pdf, id=60, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: folha-de-aprovacao.pdf Graphic file (type pdf)
-
 <use folha-de-aprovacao.pdf>
-Package pdftex.def Info: folha-de-aprovacao.pdf used on input line 131.
-(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+Package pdftex.def Info: folha-de-aprovacao.pdf  used on input line 140. on inp
+ut line 140.
+Package pdftex.def Info: Requested size: 597.22978pt x 845.15544pt on input lin
+e 140.
 File: folha-de-aprovacao.pdf Graphic file (type pdf)
- <use folha-de-aprovacao.pdf>
-Package pdftex.def Info: folha-de-aprovacao.pdf used on input line 131.
-(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-
-<folha-de-aprovacao.pdf, id=63, page=1, 597.23125pt x 845.1575pt>
+<use folha-de-aprovacao.pdf>
+Package pdftex.def Info: folha-de-aprovacao.pdf  used on input line 140. on inp
+ut line 140.
+Package pdftex.def Info: Requested size: 597.22978pt x 845.15544pt on input lin
+e 140.
+<folha-de-aprovacao.pdf, id=63, page=1, pagebox=cropbox, 597.23125pt x 845.1575
+pt>
 File: folha-de-aprovacao.pdf Graphic file (type pdf)
-
 <use folha-de-aprovacao.pdf, page 1>
-Package pdftex.def Info: folha-de-aprovacao.pdf, page1 used on input line 131.
-(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+Package pdftex.def Info: folha-de-aprovacao.pdf , page1 used on input line 140.
+ on input line 140.
+Package pdftex.def Info: Requested size: 597.22978pt x 845.15544pt on input lin
+e 140.
 File: folha-de-aprovacao.pdf Graphic file (type pdf)
- <use folha-de-aprovacao.pdf, page 1>
-Package pdftex.def Info: folha-de-aprovacao.pdf, page1 used on input line 131.
-(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
-File: folha-de-aprovacao.pdf Graphic file (type pdf)
-
 <use folha-de-aprovacao.pdf, page 1>
-Package pdftex.def Info: folha-de-aprovacao.pdf, page1 used on input line 131.
-(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+Package pdftex.def Info: folha-de-aprovacao.pdf , page1 used on input line 140.
+ on input line 140.
+Package pdftex.def Info: Requested size: 597.25711pt x 845.19412pt on input lin
+e 140.
 File: folha-de-aprovacao.pdf Graphic file (type pdf)
- <use folha-de-aprovacao.pdf, page 1>
-Package pdftex.def Info: folha-de-aprovacao.pdf, page1 used on input line 131.
-(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
-File: folha-de-aprovacao.pdf Graphic file (type pdf)
-
 <use folha-de-aprovacao.pdf, page 1>
-Package pdftex.def Info: folha-de-aprovacao.pdf, page1 used on input line 131.
-(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+Package pdftex.def Info: folha-de-aprovacao.pdf , page1 used on input line 140.
+ on input line 140.
+Package pdftex.def Info: Requested size: 597.25711pt x 845.19412pt on input lin
+e 140.
+File: folha-de-aprovacao.pdf Graphic file (type pdf)
+<use folha-de-aprovacao.pdf, page 1>
+Package pdftex.def Info: folha-de-aprovacao.pdf , page1 used on input line 140.
+ on input line 140.
+Package pdftex.def Info: Requested size: 597.25711pt x 845.19412pt on input lin
+e 140.
+File: folha-de-aprovacao.pdf Graphic file (type pdf)
+<use folha-de-aprovacao.pdf, page 1>
+Package pdftex.def Info: folha-de-aprovacao.pdf , page1 used on input line 140.
+ on input line 140.
+Package pdftex.def Info: Requested size: 597.25711pt x 845.19412pt on input lin
+e 140.
  [5 <./folha-de-aprovacao.pdf>])
 \openout2 = `dedicatoria.aux'.
 
-
-(./dedicatoria.tex)
-
-Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 17.
+ (./dedicatoria.tex)
+Overfull \hbox (13.29369pt too wide) in paragraph at lines 2--16
+[]\T1/cmr/m/n/12 Dedico este tra-ba-lho Xxxxxxxxxxx, pela xxxxxxxxx xxxx xx x x
+xxxxxx xxxxxxxx
+ []
 
 [6
 
@@ -783,105 +813,35 @@ Package blindtext Warning: portuguese not defined, using English instead.
 ]
 \openout2 = `agradecimentos.aux'.
 
- (./agradecimentos.tex)
-
-Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 18.
-
-[7
+ (./agradecimentos.tex) [7
 
 
 ]
 \openout2 = `resumo.aux'.
 
- (./resumo.tex)
-
-Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 20.
-
-
-Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 20.
+ (./resumo.tex
+Overfull \hbox (6.27927pt too wide) in paragraph at lines 2--7
+\T1/cmr/m/n/12 Este es-tudo ava-liou a con-fi-a-bi-li-dade da to-mo-gra-fia com
+-pu-ta-do-ri-zada mul-ti-de-tec-tor (TCMD)
+ []
 
 
-Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 20.
+Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
+ []
 
-Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 20.
-
-
-Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 20.
-
-
-Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 20.
-
-[8
+) [8
 
 
 ]
 \openout2 = `abstract.aux'.
 
- (./abstract.tex)
+ (./abstract.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--6
 
-Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 21.
+ []
 
-
-Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 21.
-
-
-Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 21.
-
-
-Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 21.
-
-
-Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 21.
-
-
-Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 21.
-
-[9
-
-
-]
-\openout2 = `abstract_extra.aux'.
-
- (./abstract_extra.tex)
-
-Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 22.
-
-
-Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 22.
-
-
-Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 22.
-
-
-Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 22.
-
-
-Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 22.
-
-
-Package blindtext Warning: portuguese not defined, using English instead.
-(blindtext)                 on input line 22.
-
-[10
+) [9
 
 
 ]
@@ -893,13 +853,13 @@ Package blindtext Warning: portuguese not defined, using English instead.
 (blindtext)                 on input line 3.
 
 )
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 24.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 22.
+ (c:/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 24.
- [11
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
+ [10
 
 
 ]
@@ -911,7 +871,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 Package blindtext Warning: portuguese not defined, using English instead.
 (blindtext)                 on input line 3.
 
-) [12
+) [11
 
 
 ]
@@ -922,7 +882,7 @@ Package blindtext Warning: portuguese not defined, using English instead.
 Package blindtext Warning: portuguese not defined, using English instead.
 (blindtext)                 on input line 3.
 
-) [13
+) [12
 
 
 ]
@@ -933,22 +893,22 @@ Package blindtext Warning: portuguese not defined, using English instead.
 Package blindtext Warning: portuguese not defined, using English instead.
 (blindtext)                 on input line 3.
 
-) [14
+) [13
 
 
 ]
 \openout2 = `sumario.aux'.
 
- (./sumario.tex [15
+ (./sumario.tex [14
 
-
-] [16
 
 ] (./tese.toc)
 \tf@toc=\write3
 \openout3 = `tese.toc'.
 
-) [17]
+) [15
+
+]
 \openout2 = `introducao.aux'.
 
 
@@ -969,35 +929,34 @@ No file apendice1.tex.
 
 No file anexo1.tex.
 (./tese.aux (./pre-text-elements.aux) (./dedicatoria.aux) (./agradecimentos.aux
-) (./resumo.aux) (./abstract.aux) (./abstract_extra.aux)
-(./lista-ilustracoes.aux) (./lista-tabelas.aux) (./lista-abrv-siglas.aux)
-(./lista-simbolos.aux) (./sumario.aux) (./introducao.aux) (./discussao.aux)
-(./conclusao.aux) (./referencias.aux) (./apendice1.aux) (./anexo1.aux)) ) 
+) (./resumo.aux) (./abstract.aux) (./lista-ilustracoes.aux)
+(./lista-tabelas.aux) (./lista-abrv-siglas.aux) (./lista-simbolos.aux)
+(./sumario.aux) (./introducao.aux) (./discussao.aux) (./conclusao.aux)
+(./referencias.aux) (./apendice1.aux) (./anexo1.aux)) ) 
 Here is how much of TeX's memory you used:
- 5033 strings out of 493013
- 69482 string characters out of 6133343
- 166157 words of memory out of 5000000
- 8304 multiletter control sequences out of 15000+600000
+ 5096 strings out of 492990
+ 69901 string characters out of 6136333
+ 162692 words of memory out of 5000000
+ 8374 multiletter control sequences out of 15000+600000
  19103 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,18n,45p,332b,432s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/
-local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/lo
-cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
-al/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local
-/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/t
-exlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/tex
-live/2016/texmf-dist/fonts/type1/public/cm-super/sfcc1000.pfb></usr/local/texli
-ve/2016/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texlive
-/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2
-016/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb></usr/local/texlive/201
-6/texmf-dist/fonts/type1/public/cm-super/sfxc1095.pfb></usr/local/texlive/2016/
-texmf-dist/fonts/type1/public/cm-super/sfxc1440.pfb></usr/local/texlive/2016/te
-xmf-dist/fonts/type1/public/cm-super/sfxc1728.pfb>
-Output written on tese.pdf (17 pages, 482778 bytes).
+ 44i,18n,45p,334b,431s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2017/texmf-d
+ist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texlive/2017/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/pub
+lic/cm-super/sfbx1200.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/cm-sup
+er/sfbx1728.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx248
+8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1000.pfb><c:/
+texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb><c:/texlive/20
+17/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2017/texmf-d
+ist/fonts/type1/public/cm-super/sfsl1200.pfb><c:/texlive/2017/texmf-dist/fonts/
+type1/public/cm-super/sfxc1095.pfb><c:/texlive/2017/texmf-dist/fonts/type1/publ
+ic/cm-super/sfxc1440.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/cm-supe
+r/sfxc1728.pfb>
+Output written on tese.pdf (15 pages, 485409 bytes).
 PDF statistics:
- 171 PDF objects out of 1000 (max. 8388607)
- 113 compressed objects within 2 object streams
+ 165 PDF objects out of 1000 (max. 8388607)
+ 109 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  71 words of extra memory for PDF output out of 10000 (max. 10000000)
 

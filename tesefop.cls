@@ -27,10 +27,17 @@
 	bottom=20mm
 }
 
+% Indentação do parágrafo
+\usepackage{indentfirst} 
+\setlength{\parindent}{2cm}
+
+
 % Pacote para add figuras
 \RequirePackage{graphicx}
-
 
 \RequirePackage{pdfpages} % add pdfs ao texto. Figuras ou páginas cheias
 
 \RequirePackage{blindtext} % Add texto para verificar formataçao
+
+\usepackage{setspace} % Definir espaçamento entre linhas
+\onehalfspacing % Espaçamento 1,5

@@ -3,10 +3,10 @@
 \includegraphics[width=0.10\textwidth]{imagens/logo-unicamp}%
 \begin{minipage}[b]{0.7\textwidth}
 	\centering
-	\textbf{Universidade Estadual de Campinas} \\
+	\textbf{UNIVERSIDADE ESTADUAL DE CAMPINAS} \\
 \vspace{0.5cm}
 
-\textbf{Faculdade de Odontologia de Piracicaba}
+\textbf{FACULDADE DE ODONTOLOGIA DE PIRACICABA}
 \end{minipage}%
 \includegraphics[width=0.10\textwidth]{imagens/logo-fop}
 
@@ -57,13 +57,22 @@
 
 \begin{flushright}
 	\begin{minipage}[c]{.5\textwidth}
-		Tese apresentada à Faculdade de Odontologia de Piracicaba da Universidade Estadual de Campinas como parte dos requisitos para obtenção do título de 
-		\ifx\femaleAuthor\undefined
+		\ifx\mestrado\undefined
+		Tese apresentada à Faculdade de Odontologia de Piracicaba da Universidade Estadual de Campinas como parte dos requisitos para obtenção do título de \ifx\femaleAuthor\undefined
 		Doutor
 		\else
 		Doutora
 		\fi
+		em \titulodoc{} na área de \areadoc . 
+		\else
+		Dissertação apresentada à Faculdade de Odontologia de Piracicaba da Universidade Estadual de Campinas como parte dos requisitos para obtenção do título de \ifx\femaleAuthor\undefined
+		Mestre
+		\else
+		Mestra
+		\fi
 		em \titulodoc{} na área de \areadoc .
+		\fi
+
 		
 		\end{minipage}
 \end{flushright}
@@ -119,7 +128,7 @@
 	
 	\vfill
 	\begin{center}
-		{\small\textbf{\textsc{ Piracicava \\ \ano}}}
+		{\small\textbf{\textsc{ Piracicaba \\ \ano}}}
 	\end{center}
 
 
